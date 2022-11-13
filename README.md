@@ -45,5 +45,5 @@ Run this code under Jupyter Notebook for results
 
 ## Authors
 
-- Yi Zhou | [@Cheems](https://github.com/43254022km)
-- ShaoQian Yi | [@Dylan.Soren](https://github.com/CessyJ)
+- [@Cheems](https://github.com/43254022km)
+- [@Dylan.Soren](https://github.com/CessyJ)
