@@ -45,5 +45,5 @@ Run this code under Jupyter Notebook for results
 
 ## Authors
 
--[@Cheems](https://github.com/43254022km)
--[@Dylan.Soren](https://github.com/CessyJ)
+- [@Cheems](https://github.com/43254022km)
+- [@Dylan.Soren](https://github.com/DylanSoren)
